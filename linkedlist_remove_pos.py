@@ -24,7 +24,7 @@ class Linkedlist:
     def removepos(self,pos):
         temp = self.head
         if (temp is not None):
-            if (temp == )
+            if (temp == st)
         for i in range(pos):
 
     def prilist(self):
